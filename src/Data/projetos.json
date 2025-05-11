@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "App de musica",
+    "description": "Aplicação responsiva para ouvir música de qualquer lugar.",
+    "imgSrc": "../Public/appDeMusica.png",
+    "tech": "React, CSS, JavaScript",
+    "link": "https://app-de-musica.vercel.app/"
+  },
+  {
+    "id": 2,
+    "title": "Lista de tarefas",
+    "description": "Gerencie suas tarefas tarefas diárias.",
+    "imgSrc": "../Public/listaDeTarefas.png",
+    "tech": "React, Tailwind, JavaScript",
+    "link": "https://lista-de-tarefas-lake-eta.vercel.app/"
+  }
+]

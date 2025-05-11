@@ -1,0 +1,9 @@
+[
+  { "name": "HTML", "icon": "../Public/Habilidades/html5.svg" },
+  { "name": "CSS", "icon": "../Public/Habilidades/css.svg" },
+  { "name": "Javascript", "icon": "../Public/Habilidades/javascript.svg" },
+  { "name": "NodeJS", "icon": "../Public/Habilidades/nodejs.svg" },
+  { "name": "Tailwind", "icon": "../Public/Habilidades/tailwind.svg" },
+  { "name": "ReactJS", "icon": "../Public/Habilidades/react.svg" },
+  { "name": "MySQL", "icon": "../Public/Habilidades/mysql.svg" }
+]

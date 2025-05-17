@@ -4,7 +4,7 @@ function Home() {
   return (
     <div>
       <BarraNavega />
-      <div className="flex justify-evenly items-center h-screen">
+      <div className="flex flex-col md:flex-row justify-evenly items-center h-screen text-center md:text-left gap-6 px-4">
         <div>
           <p className="text-sm">Olá, eu sou</p>
           <h2 className="text-4xl font-bold">Eduardo Ortulan</h2>
@@ -14,7 +14,7 @@ function Home() {
           <img
             src="/Public/minhaFoto.jpg"
             alt=""
-            className="border-3 border-emerald-800 w-55 h-55 rounded-full object-cover"
+            className="border-4 border-emerald-800 w-56 md:w-72 aspect-square rounded-full object-cover"
           />
         </div>
       </div>

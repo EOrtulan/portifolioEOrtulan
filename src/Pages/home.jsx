@@ -1,4 +1,6 @@
 import BarraNavega from "../Components/barraNavega";
+import Contato from "../Components/Contato";
+const minhaFoto = "../Public/assets/minhaFoto.jpg";
 
 function Home() {
   return (
@@ -12,12 +14,13 @@ function Home() {
         </div>
         <div>
           <img
-            src="/Public/minhaFoto.jpg"
+            src={minhaFoto}
             alt=""
             className="border-4 border-emerald-800 w-56 md:w-72 aspect-square rounded-full object-cover"
           />
         </div>
       </div>
+      <Contato />
     </div>
   );
 }

@@ -1,5 +1,8 @@
 import BarraNavega from "../Components/barraNavega";
 import ListaHabilidades from "../Components/cardHabilidades";
+import Contato from "../Components/Contato";
+
+const minhaFoto = "../Public/assets/minhaFoto.jpg";
 
 function Sobre() {
   return (
@@ -11,7 +14,7 @@ function Sobre() {
         </h2>
         <div className="flex flex-col md:flex-row items-center md:items-start gap-6">
           <img
-            src="/Public/minhaFoto.jpg"
+            src={minhaFoto}
             alt="Avatar"
             className="w-40 aspect-square rounded-full object-cover shadow-md"
           />
@@ -35,6 +38,7 @@ function Sobre() {
         </h2>
         <ListaHabilidades />
       </div>
+      <Contato />
     </div>
   );
 }

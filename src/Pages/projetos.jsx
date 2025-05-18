@@ -1,6 +1,7 @@
 import BarraNavega from "../Components/barraNavega";
 import projetos from "../Data/projetos.json"
 import ProjectCard from "../Components/cardProjetos";
+import Contato from "../Components/Contato";
 
 function Projetos() {
   return (
@@ -21,6 +22,7 @@ function Projetos() {
         ))}
       </div>
     </div>
+    <Contato />
     </div>
   );
 }

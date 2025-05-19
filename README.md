@@ -6,7 +6,7 @@ Este projeto apresenta um pouco sobre mim, minhas habilidades e alguns dos proje
 ## ✨ Sobre
 
 Sou formado em Desenvolvimento Web pela Trybe, com foco em tecnologias Front-End e Back-End.  
-Atualmente, estou buscando minha primeira oportunidade profissional como desenvolvedor.
+Atualmente, estou buscando uma oportunidade profissional como desenvolvedor Front-end.
 
 ## 🛠️ Tecnologias Utilizadas
 

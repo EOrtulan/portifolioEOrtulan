@@ -23,11 +23,12 @@ function Sobre() {
             Sou formado em Desenvolvimento Web pela Trybe, uma escola de tecnologia que oferece formação intensiva com foco
              em habilidades técnicas e comportamentais.
              Durante minha trajetória, desenvolvi projetos práticos nas áreas de Front-End e Back-End, utilizando tecnologias
-              como HTML, CSS, JavaScript, React, Node.js e MySQL.
+              como HTML, CSS, JavaScript, React, Node.js, Express e MySQL.
             </p>
             <p>
-            Embora ainda não tenha atuado profissionalmente na área, 
-            estou em constante aprendizado e aprimoramento, buscando minha primeira oportunidade como desenvolvedor.
+            Com foco em design intuitivo e experiência do usuário, busco criar interfaces claras e funcionais que resolvam problemas reais. Acredito que a tecnologia deve ser acessível e útil, e me esforço para entregar projetos que atendam às necessidades dos usuários.
+            </p>
+            <p>Atualmente, sigo me aperfeiçoando tecnicamente e estou em busca de uma oportunidade como desenvolvedor front-end, onde poderei aplicar minhas habilidades, contribuir com ideias e soluções que gerem valor.
             </p>
           </div>
         </div>

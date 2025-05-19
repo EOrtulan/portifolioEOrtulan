@@ -16,11 +16,19 @@ Atualmente, estou buscando minha primeira oportunidade profissional como desenvo
 - **Tailwind CSS**
 - **Vite**
 
+## 🔗 Deploy
+
+Você pode acessar o portfólio online em:  
+[https://seu-portfolio.vercel.app]([https://seu-portfolio.vercel.app](https://portifolio-e-ortulan.vercel.app/))
+
+## 📬 Contato
+
+- **Email:** eduortulan@gmail.com
+- **LinkedIn:** [linkedin.com/in/eduardo-ortulan]([https://linkedin.com/in/eduardo-ortulan](https://www.linkedin.com/in/eduardo-ortulan-roberto-2435b51b5/))  
+
 
 ---
 
 ### 🚧 Em desenvolvimento...
 
 Estou constantemente melhorando este portfólio com novos projetos e melhorias visuais.
-
-

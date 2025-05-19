@@ -2,7 +2,7 @@ import BarraNavega from "../Components/barraNavega";
 import ListaHabilidades from "../Components/cardHabilidades";
 import Contato from "../Components/Contato";
 
-const minhaFoto = "../Public/assets/minhaFoto.jpg";
+const minhaFoto = "/assets/minhaFoto.jpg";
 
 function Sobre() {
   return (

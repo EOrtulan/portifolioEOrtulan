@@ -1,6 +1,6 @@
 import BarraNavega from "../Components/barraNavega";
 import Contato from "../Components/Contato";
-const minhaFoto = "/Public/assets/minhaFoto.jpg";
+const minhaFoto = "/assets/minhaFoto.jpg";
 
 function Home() {
   return (

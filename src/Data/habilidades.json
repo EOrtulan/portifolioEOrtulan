@@ -1,9 +1,9 @@
 [
-  { "name": "HTML", "icon": "../Public/assets/Habilidades/html5.svg" },
-  { "name": "CSS", "icon": "../Public/assets/Habilidades/css.svg" },
-  { "name": "Javascript", "icon": "../Public/assets/Habilidades/javascript.svg" },
-  { "name": "NodeJS", "icon": "../Public/assets/Habilidades/nodejs.svg" },
-  { "name": "Tailwind", "icon": "../Public/assets/Habilidades/tailwind.svg" },
-  { "name": "ReactJS", "icon": "../Public/assets/Habilidades/react.svg" },
-  { "name": "MySQL", "icon": "../Public/assets/Habilidades/mysql.svg" }
+  { "name": "HTML", "icon": "/Public/assets/Habilidades/html5.svg" },
+  { "name": "CSS", "icon": "/Public/assets/Habilidades/css.svg" },
+  { "name": "Javascript", "icon": "/Public/assets/Habilidades/javascript.svg" },
+  { "name": "NodeJS", "icon": "/Public/assets/Habilidades/nodejs.svg" },
+  { "name": "Tailwind", "icon": "/Public/assets/Habilidades/tailwind.svg" },
+  { "name": "ReactJS", "icon": "/Public/assets/Habilidades/react.svg" },
+  { "name": "MySQL", "icon": "/Public/assets/Habilidades/mysql.svg" }
 ]

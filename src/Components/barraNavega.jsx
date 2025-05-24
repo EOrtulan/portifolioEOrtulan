@@ -5,7 +5,7 @@ function BarraNavega() {
   const path = location.pathname;
 
   return (
-    <div className="fixed top-0 left-0 w-full z-50 shadow-md">
+    <div className="fixed bg-[#1b1b1b]/90 top-0 left-0 w-full z-50 shadow-md">
       <div className="flex justify-evenly py-4">
         <Link
           to="/"

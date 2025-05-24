@@ -22,7 +22,7 @@ function Contato() {
       </a>
 
       <a
-        href="eduortulan@gmail.com"
+        href="mailto:eduortulan@gmail.com"
         className="text-2xl text-emerald-600 hover:text-emerald-400 transition"
       >
         <FaEnvelope />

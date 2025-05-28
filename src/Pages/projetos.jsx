@@ -6,7 +6,6 @@ import Contato from "../Components/Contato";
 function Projetos() {
   return (
     <div className="pt-16">
-      <BarraNavega />
       <div className="max-w-6xl mx-auto px-4 py-10">
       <h2 className="text-2xl text-white font-bold mb-6 text-center">Experiência de projetos passados</h2>
       <div className="grid gap-6 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">

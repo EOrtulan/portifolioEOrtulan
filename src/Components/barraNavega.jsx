@@ -1,11 +1,11 @@
 import { useLocation, Link } from "react-router-dom";
 
 function BarraNavega() {
-  const location = useLocation(); // Retorna algo como "/sobre"
+  const location = useLocation();
   const path = location.pathname;
 
   return (
-    <div className="fixed bg-[#1b1b1b]/90 top-0 left-0 w-full z-50 shadow-md">
+    <div className="fixed bg-black/80 top-0 left-0 w-full z-50 shadow-md">
       <div className="flex justify-evenly py-4">
         <Link
           to="/"
